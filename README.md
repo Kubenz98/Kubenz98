@@ -8,10 +8,10 @@
 ---
 <div align="center">
   <p font-size=50px>
-  📚 Main stack 
+  📚 Tech stack 
   </p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,html,css,sass,webpack,git,firebase" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,sass,webpack,git,firebase" />
   </a>
 
 ---
@@ -19,7 +19,7 @@
   <p font-size=50px>
   🌱 I’m currently learning
     <div align="center">
-	<img src="https://skillicons.dev/icons?i=ts" />
+	<img src="https://skillicons.dev/icons?i=next" />
 </div>
 
  ---
