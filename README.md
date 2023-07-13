@@ -11,7 +11,7 @@
   📚 Tech stack 
   </p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,sass,webpack,git,firebase" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,next,html,css,sass,webpack,git,firebase" />
   </a>
 
 ---
@@ -19,7 +19,7 @@
   <p font-size=50px>
   🌱 I’m currently learning
     <div align="center">
-	<img src="https://skillicons.dev/icons?i=next" />
+	<img src="https://skillicons.dev/icons?i=php" />
 </div>
 
  ---
