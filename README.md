@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Jakub.
 <div align="center">
-👉 I'm currently looking for a job as a Junior Front-End Developer.
+👉 I'm Intern Fullstack Developer (PHP, JS).
 
 👀 Check out my projects or visit my [website]( https://www.jakubkoluda.pl).
 </div>
