@@ -11,7 +11,7 @@
   📚 Tech stack 
   </p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,next,php,mysql,html,css,sass,webpack,git,firebase" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,next,php,mysql,html,css,sass,tailwind,git,firebase" />
   </a>
 
 ---
